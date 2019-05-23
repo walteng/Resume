@@ -1,0 +1,43 @@
+.intro{
+  color: green;
+
+}
+.experience{
+  color: purple;
+}
+.skill{
+  color: red;
+}
+.edu{
+  color: yellow;
+}
+.info{
+  color: blue;
+}
+.int{
+  color: Violet;
+}
+.prof{
+  color: orange;
+}
+.comp{
+  color: navy blue;
+}
+.date{
+  color: pink;
+}
+.course{
+  color: #008B8B;
+}
+.qual{
+  color: 	#00008B;
+}
+.cont{
+  color: #7FFFD4;
+}
+.cv{
+  text-align: justify;
+}
+.title{
+  color: black;
+}
